@@ -1,1 +1,1 @@
-# avixa
+este proyecto es una prueba de como crear un repositorio en el precurse de herny
